@@ -1,0 +1,17 @@
+.TITULO {
+    color: blue;
+    text-align: center;
+}
+body {
+    background-color: black;
+    font: normal 20pt arial ;
+}
+.img {
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
+.azul {
+    color: blue;
+}
